@@ -1,9 +1,9 @@
-In the Nextcloud community, participants from all over the world come together to create Free Software for a free internet. This is made possible by the support, hard work and enthusiasm of thousands of people, including those who create and use Nextcloud software.
+Na comunidade Nextcloud, participantes de todo o mundo se reúnem para criar Software Livre para uma internet livre. Isso é possível graças ao apoio, trabalho árduo e entusiasmo de milhares de pessoas, incluindo aquelas que criam e usam o software Nextcloud.
 
-Our code of conduct offers some guidance to ensure Nextcloud participants can cooperate effectively in a positive and inspiring atmosphere, and to explain how together we can strengthen and support each other.
+Nosso código de conduta oferece algumas orientações para garantir que os participantes do Nextcloud possam cooperar efetivamente em uma atmosfera positiva e inspiradora, e para explicar como juntos podemos fortalecer e apoiar uns aos outros.
 
-The Code of Conduct is shared by all contributors and users who engage with the Nextcloud team and its community services. It presents a summary of the shared values and “common sense” thinking in our community.
+O Código de Conduta é compartilhado por todos os contribuidores e usuários que interagem com a equipe do Nextcloud e seus serviços comunitários. Ele apresenta um resumo dos valores compartilhados e do pensamento de "senso comum" em nossa comunidade.
 
-You can find our full code of conduct on our website: https://nextcloud.com/code-of-conduct/
+Você pode encontrar nosso código de conduta completo em nosso site: https://nextcloud.com/code-of-conduct/
 
-Please, keep our CoC in mind when you contribute! That way, everyone can be a part of our community in a productive, positive, creative and fun way.
+Por favor, mantenha nosso CdC em mente quando você contribuir! Dessa forma, todos podem fazer parte da nossa comunidade de uma maneira produtiva, positiva, criativa e divertida.
